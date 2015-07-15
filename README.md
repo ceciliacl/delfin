@@ -1,0 +1,2 @@
+# delfin
+respaldo con rsync
